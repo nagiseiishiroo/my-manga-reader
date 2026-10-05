@@ -1,17 +1,15 @@
 [
   {
-    "id": "naruto-ch1",
-    "title": "مانجا ناروتو",
-    "cover": "رابط_صورة_غلاف_ناروتو.jpg",
-    "description": "بداية مغامرة ناروتو أوزوماكي.",
+    "id": "my-hero-academia",
+    "title": "My Hero Academia",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/5a/Boku_no_Hero_Academia_Volume_1.png",
+    "description": "في عالم يولد فيه معظم الناس بقوى خارقة، يولد إيزوكو ميدوريا بدون أي قوة، لكنه يطمح بأن يصبح البطل رقم 1.",
     "chapters": [
       {
         "number": 1,
-        "title": "الفصل 1: أوزوماكي ناروتو",
+        "title": "الفصل 1: إيزوكو ميدوريا - الأصل",
         "pages": [
-          "رابط_صفحة_المانجا_1.jpg",
-          "رابط_صفحة_المانجا_2.jpg",
-          "رابط_صفحة_المانجا_3.jpg"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Manga_reading_direction.svg/1000px-Manga_reading_direction.svg.png"
         ]
       }
     ]
