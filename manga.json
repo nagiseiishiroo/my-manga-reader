@@ -1,17 +1,33 @@
 [
   {
     "id": "manga-1",
-    "title": "مانجا تجريبية 1",
-    "cover": "https://via.placeholder.com/250x350/2d3748/ffffff?text=Manga+Cover",
-    "description": "هذه مانجا تجريبية لاختبار القارئ.",
+    "title": "مانجا ون بيس (تجريبي)",
+    "cover": "https://picsum.photos/id/1025/300/450",
+    "description": "مغامرات لوفي ورحلته للبحث عن الكنز.",
     "chapters": [
       {
         "number": 1,
-        "title": "الفصل الأول",
+        "title": "الفصل 1: مغامرة جديدة",
         "pages": [
-          "https://via.placeholder.com/600x900/1a202c/ffffff?text=Page+1",
-          "https://via.placeholder.com/600x900/2d3748/ffffff?text=Page+2",
-          "https://via.placeholder.com/600x900/4a5568/ffffff?text=Page+3"
+          "https://picsum.photos/id/1018/600/900",
+          "https://picsum.photos/id/1015/600/900",
+          "https://picsum.photos/id/1019/600/900"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manga-2",
+    "title": "مانجا هجوم العمالقة (تجريبي)",
+    "cover": "https://picsum.photos/id/1069/300/450",
+    "description": "صراع البشرية من أجل البقاء خلف الأسوار.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "الفصل 1: سقوط الجدار",
+        "pages": [
+          "https://picsum.photos/id/1039/600/900",
+          "https://picsum.photos/id/1043/600/900"
         ]
       }
     ]
