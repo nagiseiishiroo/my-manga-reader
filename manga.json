@@ -1,17 +1,16 @@
 [
   {
-    "id": "Under-Doctor",
+    "id": "under-doctor",
     "title": "Under Doctor",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/5/5a/Boku_no_Hero_Academia_Volume_1.png",
-    "description": "في عالم يولد فيه معظم الناس بقوى خارقة، يولد إيزوكو ميدوريا بدون أي قوة، لكنه يطمح بأن يصبح البطل رقم 1.",
+    "cover": "https://files.catbox.moe/mhl0pq.png",
+    "description": "جميع فصول مانجا Under Doctor مترجمة بالكامل بالعربية.",
     "chapters": [
       {
         "number": 1,
-        "title": "الفصل 1: إيزوكو ميدوريا - الأصل",
+        "title": "الفصل 1",
         "pages": [
-          "pages": [
-  "https://files.catbox.moe/p5y1tn.png"
-          ]
+          "https://files.catbox.moe/qlmfbp.png"
+        ]
       }
     ]
   }
