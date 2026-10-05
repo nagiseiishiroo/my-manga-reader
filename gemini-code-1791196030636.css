@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 16px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+header h1 {
+  margin-bottom: 12px;
+  color: #4da6ff;
+}
+
+#searchInput {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1px solid #333;
+  background: #1e1e1e;
+  color: #fff;
+  font-size: 16px;
+}
+
+.manga-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 16px;
+}
+
+.manga-card {
+  background: #1e1e1e;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.manga-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.manga-card h3 {
+  padding: 8px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#readerView {
+  text-align: center;
+}
+
+#backBtn {
+  padding: 8px 16px;
+  background: #4da6ff;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+
+#pagesContainer img {
+  max-width: 100%;
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
