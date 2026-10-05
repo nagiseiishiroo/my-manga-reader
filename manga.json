@@ -1,33 +1,17 @@
 [
   {
-    "id": "manga-1",
-    "title": "مانجا ون بيس (تجريبي)",
-    "cover": "https://picsum.photos/id/1025/300/450",
-    "description": "مغامرات لوفي ورحلته للبحث عن الكنز.",
+    "id": "naruto-ch1",
+    "title": "مانجا ناروتو",
+    "cover": "رابط_صورة_غلاف_ناروتو.jpg",
+    "description": "بداية مغامرة ناروتو أوزوماكي.",
     "chapters": [
       {
         "number": 1,
-        "title": "الفصل 1: مغامرة جديدة",
+        "title": "الفصل 1: أوزوماكي ناروتو",
         "pages": [
-          "https://picsum.photos/id/1018/600/900",
-          "https://picsum.photos/id/1015/600/900",
-          "https://picsum.photos/id/1019/600/900"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "manga-2",
-    "title": "مانجا هجوم العمالقة (تجريبي)",
-    "cover": "https://picsum.photos/id/1069/300/450",
-    "description": "صراع البشرية من أجل البقاء خلف الأسوار.",
-    "chapters": [
-      {
-        "number": 1,
-        "title": "الفصل 1: سقوط الجدار",
-        "pages": [
-          "https://picsum.photos/id/1039/600/900",
-          "https://picsum.photos/id/1043/600/900"
+          "رابط_صفحة_المانجا_1.jpg",
+          "رابط_صفحة_المانجا_2.jpg",
+          "رابط_صفحة_المانجا_3.jpg"
         ]
       }
     ]
